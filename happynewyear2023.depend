@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1674317795 source:d:\code\c++\happynewyear2023\main.cpp
+	<bits/stdc++.h>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<mmsystem.h>
+
